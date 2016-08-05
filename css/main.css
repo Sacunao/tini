@@ -41,16 +41,21 @@ header img{
 
 section{
 	background-color: #EAEAE9;
+	padding-top: 80px;
 }
 
 .cuadros{
 	background-color: #FFFFFF;
-	padding: 20px;
-	margin: 20px 20px 20px 0px;
+	padding: 20px 20px 30px 20px;
+	margin: 0px 0px 20px 0px;
 }
 
+.right{
+	margin-right: 20px;
+}
 .cuadros h2{
 	color: #868686;
+	margin-top: 20px;
 }
 
 .cuadros p{
@@ -62,7 +67,7 @@ section{
 }
 
 .cuadros p{
-	margin-bottom: 40px;
+	margin-bottom: 80px;
 }
 
 .fotos{
